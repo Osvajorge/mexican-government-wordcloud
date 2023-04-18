@@ -1,4 +1,4 @@
-# Mexican_government-s_report_wordcloud
+# Mexican Goverment WordCloud
 
 This is a short exercise to plot the 4th government report by the president of Mexico AMLO.
 
